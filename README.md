@@ -23,7 +23,7 @@
 <br />
 
 ### Running, but...
-#### I have to explain it all, right? Ok, ok! If no errors have shown, go to your web browser and check http://localhost:8080 .
+#### I have to explain it all, right? Ok, ok! If you got no errors, then go to your web browser and check http://localhost:8080 .
 #### It's important to take a look at our *'uwsgi.ini'* file:
 
 <br />
