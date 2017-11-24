@@ -14,7 +14,7 @@
 
 
 ### Ok, now what?
-#### You must have noticed that if you use *virtualenvwrapper* to create you *venv*, it will activate your *venv* for you. So, once inside your *venv*, all you have to do is run our *'uwsgi.ini'* file:
+#### You must have noticed that if you've used *virtualenvwrapper* to create a new *venv*, it will activate your *venv* for you. So, once inside your *venv*, all you have to do is run our *'uwsgi.ini'* file:
 
 ```
 # uwsgi --ini="uwsgi.ini"
